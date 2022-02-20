@@ -1,5 +1,6 @@
 # Hustle App
 
+
 ## Inspiration
 
 We all come across cool ideas which can bring about a change and make life easy but it eventually dies when we fail to collect investments. And for that reason we are building **HUSTLE**, that can bring you investments that _You deserve_.
